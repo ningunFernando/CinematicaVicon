@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\ferna\OneDrive\Escritorio\CinematicaVicon\Cinematica_Vicon\Intermediate\PipInstall
+set VIRTUAL_ENV=C:\Users\uetc2\Documents\GitHub\CinematicaVicon\Cinematica_Vicon\Intermediate\PipInstall
 
 if not defined PROMPT set PROMPT=$P$G
 
